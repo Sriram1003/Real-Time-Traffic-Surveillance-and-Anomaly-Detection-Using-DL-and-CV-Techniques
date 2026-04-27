@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+mysqlclient
+opencv-python
+torch
+torchvision
+ultralytics
+numpy
